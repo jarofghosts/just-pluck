@@ -1,7 +1,7 @@
 just-pluck
-====
+==========
 
-[![Build Status](http://img.shields.io/travis/jarofghosts/just-pluck.svg?style=flat)](https://travis-ci.org/jarofghosts/just-pluck)
+[![Build Status](http://img.shields.io/travis/jarofghosts/just-pluck/master.svg?style=flat)](https://travis-ci.org/jarofghosts/just-pluck)
 [![npm install](http://img.shields.io/npm/dm/just-pluck.svg?style=flat)](https://www.npmjs.org/package/just-pluck)
 
 simple pluck function
