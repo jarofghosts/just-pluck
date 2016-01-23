@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "covert test/index.js"
+    "lint": "standard index.js test/index.js",
+    "test": "covert test/index.js && npm run lint"
   },
   "repository": {
     "type": "git",
@@ -24,10 +25,11 @@
   },
   "homepage": "https://github.com/jarofghosts/just-pluck",
   "dependencies": {
-    "dotpather": "^0.1.3"
+    "dotpather": "^1.0.0"
   },
   "devDependencies": {
-    "covert": "^1.0.1",
-    "tape": "^2.13.3"
+    "covert": "^1.1.0",
+    "standard": "^5.4.1",
+    "tape": "^4.4.0"
   }
 }

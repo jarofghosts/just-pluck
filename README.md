@@ -1,8 +1,10 @@
-just-pluck
-==========
+# just-pluck
 
-[![Build Status](http://img.shields.io/travis/jarofghosts/just-pluck/master.svg?style=flat)](https://travis-ci.org/jarofghosts/just-pluck)
-[![npm install](http://img.shields.io/npm/dm/just-pluck.svg?style=flat)](https://www.npmjs.org/package/just-pluck)
+[![Build Status](http://img.shields.io/travis/jarofghosts/just-pluck.svg?style=flat-square)](https://travis-ci.org/jarofghosts/just-pluck)
+[![npm install](http://img.shields.io/npm/dm/just-pluck.svg?style=flat-square)](https://www.npmjs.org/package/just-pluck)
+[![npm version](https://img.shields.io/npm/v/just-pluck.svg?style=flat-square)](https://www.npmjs.org/package/just-pluck)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard)
+[![License](https://img.shields.io/npm/l/just-pluck.svg?style=flat-square)](https://github.com/jarofghosts/just-pluck/blob/master/LICENSE)
 
 simple pluck function
 
