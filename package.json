@@ -1,6 +1,6 @@
 {
   "name": "just-pluck",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "simple pluck without the madness",
   "main": "index.js",
   "directories": {
